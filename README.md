@@ -84,7 +84,8 @@ To view all packages and dependencies used, check out the [Versions](versions/ve
 
 Thank you for being part of this journey, and happy coding! 😊
 
-
+---
  npx drizzle-kit generate
 npx drizzle-kit push
 npx drizzle-kit migrate
+---
