@@ -6,6 +6,8 @@ import { ResumeDataType } from "@/types/resume.type";
 import { useParams } from "next/navigation";
 import { createContext, useState, FC, useEffect, useContext } from "react";
 
+
+
 type ResumeContextType = {
   resumeInfo: ResumeDataType | undefined;
   isLoading: boolean;
